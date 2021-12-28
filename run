@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-import rosboard.rosboard
-print("Running from %s" % str(rosboard.__path__))
-rosboard.rosboard.main()
+import ros_tkinter.ros_tkinter
+print("Running from %s" % str(ros_tkinter.__path__))
+ros_tkinter.ros_tkinter.main()
 

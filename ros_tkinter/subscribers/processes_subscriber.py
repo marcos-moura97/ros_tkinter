@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import psutil
 import re
 import select
 import subprocess

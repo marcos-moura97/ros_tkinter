@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <?xml-model href="http://download.ros.org/schema/package_format2.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
-  <name>rosboard</name>
+  <name>ros_tkinter</name>
   <version>1.2.1</version>
-  <description>ROSBoard</description>
-  <maintainer email="dheera.r.e.m.o.v.e.t.h.i.s@dheera.net">dheera</maintainer>
+  <description>ROS Tkinter: TKinter interface that displays ROS Topics. Project based on Rosboard</description>
+  <maintainer email="marcos.moura@aluno.cefet-rj.com">Marcos Moura</maintainer>
   <license>BSD</license>
 
   <buildtool_depend condition="$ROS_VERSION == 1">catkin</buildtool_depend>
